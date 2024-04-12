@@ -25,6 +25,9 @@ A simple implementation of the classic Tic-Tac-Toe game in Python. This project 
 
 The Minimax algorithm is a decision-making algorithm used in two-player games, like Tic-Tac-Toe. It evaluates all possible moves and outcomes to determine the best move for the current player. In this implementation, a recursive depth-first search is employed to explore the game tree and find optimal moves.
 
+<img width="226" alt="image" src="https://github.com/Shyam-Prasath/tic-tae-toe/assets/117503407/744493c0-e50a-43d4-92b0-d665771f5bb8">
+
+
 ## Dependencies
 
 - Google Colab
